@@ -1,0 +1,33 @@
+h3{ 
+    text-transform:uppercase;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFUH0m5wHnUBL3erCRMVBCS5B9XkOT2gxVA&s");
+}
+
+a{
+    font-size: 16px;
+    font-style: italic;
+}
+
+header{
+    border-style: solid;
+    background-color: aliceblue;
+}
+
+main{
+    border-style: solid;
+   background-color: aliceblue;
+   height: 80%; 
+   width: 70%;
+}
+
+footer{
+    border-style: solid;
+   background-color: aliceblue;
+}
