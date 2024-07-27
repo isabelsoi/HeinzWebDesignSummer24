@@ -1,0 +1,43 @@
+h1{
+    background-color:antiquewhite;
+    color:darkblue;
+}
+
+h2{
+    background-color: antiquewhite;
+    color: darkgreen;
+}
+
+h3{
+    background-color: aliceblue;
+    color: darkcyan;
+}
+
+header{
+    background-color: antiquewhite;
+}
+
+main{
+    background-color: aliceblue;
+}
+
+footer{ 
+    background-color: aliceblue;
+}
+
+img{
+float:right;
+    height: 250px;
+    width: 300px;
+    border-style: double;
+}
+
+li{
+    background-color: aliceblue;
+    color: darkolivegreen;
+}
+
+a{
+    background-color: aliceblue;
+    color:darkolivegreen;
+}
