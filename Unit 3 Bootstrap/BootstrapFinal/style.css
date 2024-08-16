@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(lightsteelblue, rgb(239, 183, 253));
+}
+
+
+
+button{
+    background-color:lightsteelblue;
+}
+
+.navbar{
+    background-color: rgb(63, 63, 120);
+    color: rgb(221, 225, 236);
+}
+
+.mn-img{
+    width: 450px;
+    height: 300px;
+    border-width: 5px;
+    border-style: outset;
+    border-color: rgb(63, 63, 120);
+}
+

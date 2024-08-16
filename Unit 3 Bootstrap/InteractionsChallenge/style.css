@@ -1,0 +1,36 @@
+/* Add a transition attribute and padding */
+/* Add a transition attribute and padding */
+
+
+/* Create a rule so that the buttons begin invisibile */
+
+
+
+
+/* Create a rule so that the buttons become visible
+    when you hover over card */
+
+
+/* Push the row to the middle (ish) of the page */
+.container {
+    margin-top: 20%;
+}
+
+.btn-primary {
+    width: 100px;
+    background-color: green;
+    color: ghostwhite;
+    float: inline-end;
+    background: transparent;
+}
+
+.card{
+    padding: 10px;
+    transition: 0.5em;
+    background-color: aliceblue;
+}
+
+.hover{
+    background-color: green;
+    color: ghostwhite;
+}
